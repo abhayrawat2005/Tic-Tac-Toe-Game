@@ -17,7 +17,9 @@ Responsive design
 🚀 Technologies Used
 
 HTML5 – Structure of the game board
+
 CSS3 – Styling and layout
+
 JavaScript – Game logic and interactivity
 
 
